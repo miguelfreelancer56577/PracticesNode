@@ -1,0 +1,14 @@
+{
+  "name": "math_example",
+  "version": "1.0.0",
+  "description": "an example of use this libarry",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "mangelt",
+  "license": "UNLICENSED"
+}
